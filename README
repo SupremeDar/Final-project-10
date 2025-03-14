@@ -1,0 +1,49 @@
+# WATCHGO Website
+
+## **Overview**
+The WATCHGO website is a responsive, multi-page project designed to showcase, sell, and provide information about a range of smartwatches powered by Bootstrap and custom JavaScript.
+
+---
+
+## **Features**
+1. **Responsive Design**  
+   - Built with Bootstrap for optimal performance on all device sizes.
+   - Utilizes semantic HTML5 and a responsive grid layout.
+
+2. **Product Pages**
+   - **Shop Page**: Displays all available WATCHGO products with images, descriptions, and "Add to Cart" functionality.
+   - **About Page**: Provides detailed descriptions of each WATCHGO model.
+   - **Checkout Page**: Displays items added to the cart with a total price.
+
+3. **Interactive Elements**
+   - "Add to Cart" button functionality powered by JavaScript.
+   - Email subscription form.
+   - Accordion-based FAQ section for product-related questions.
+
+4. **Media Integration**
+   - Embedded YouTube video showcasing the product in action.
+   - SVG logo for enhanced scalability and visual quality.
+
+5. **Theming**
+   - Consistent theme across all pages.
+   - High-contrast colors for readability.
+
+6. **Other Features**
+   - Styled product table for comparison.
+   - Semantic navigation bar with links to all pages.
+
+---
+
+## **Tech Stack**
+- **HTML5**: Markup structure with semantic elements.
+- **CSS3**: Custom styling for layout and components.
+- **Bootstrap 4**: Framework for responsive design and styling.
+- **JavaScript (ES6)**: Dynamic interactivity for cart functionality.
+- **SVG**: Scalable vector graphics for the logo.
+
+---
+
+## **Installation**
+1. Clone the repository:
+   ```bash
+   git clone https://supremedar.github.io/Final-project-10/
